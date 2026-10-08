@@ -1,0 +1,4 @@
+# nothing but docs lives here; binaries belong in Releases
+*.exe
+*.pck
+*.zip
